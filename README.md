@@ -1,1 +1,1 @@
-# c-c-programming-basics
+# Basic courses in c language.
